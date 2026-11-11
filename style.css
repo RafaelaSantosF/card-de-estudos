@@ -1,0 +1,30 @@
+h1 {
+    color:#000000fa;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.card {
+    background-color: #a81276ab;
+    border-radius: 5px;
+    padding: 30px; 
+    margin: 30px;
+    display: inline-block;
+    width: 200px;
+    border: 2px solid rgba(90, 65, 65, 0.986);
+    text-align: center;
+    height: 280px;
+    box-sizing: border-box;
+    vertical-align: top; 
+    
+}
+
+.container {
+    text-align: center;
+}
+
+p {
+  Color: #f7f2f4fa;
+  Font-size: 15px;
+}
